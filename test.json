@@ -1,0 +1,10 @@
+[
+{"name":{"first":"Kyra","last":"Parris"},"email":"kyparris07@gmail.com","password":"password"},
+{"name":{"first":"Kim","last":"Parris"},"email":"kbestparris@gmail.com","password":"kjp6702!"},
+{"name":{"first":"ExampleFirst","last":"ExampleLast"},"email":"email@example.com","password":"qwerty123"},
+{"name":{"first":"Example","last":"2"},"email":"ex@example.com","password":"12345678"},
+{"name":{"first":"Kyra","last":"Parris"},"email":"kjparris@gmail.com","password":"password"},
+{"name":{"first":"K","last":"Parris"},"email":"parrisk@kean.edu","password":"kjp6702!"},
+{"name":{"first":"fName","middle":"mName","last":"lName"},"email":"first@example.com","password":"example!"},
+{"name":{"first":"easy","middle":"-","last":"easy"},"email":"easy@easy.com","password":"easy1111"}
+]
